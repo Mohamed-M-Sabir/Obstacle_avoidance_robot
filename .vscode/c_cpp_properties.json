@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/saber/redhat/devel/include",
+        "/opt/ros/kinetic/include",
+        "/home/saber/arizona/src/car/include",
+        "/home/saber/arizona/src/motion/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
