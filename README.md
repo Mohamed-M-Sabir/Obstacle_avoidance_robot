@@ -12,5 +12,3 @@
 
 
 
-## Code Owner
-###### Mohamed M.Saber. mohamed.m.sabir@gmail.
